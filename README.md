@@ -9,7 +9,8 @@
 ## 3. WSL2의 Publisher노드에서 에러토픽을 전송
 ## 4. Jetson보드의 Subscriber 노드에서 양쪽바퀴의 속도명령을 계산하여 다이내믹셀로전송
 
-# Line Tracer
-## Opencv를 사용하여 영상을 캡처하여 토픽 전송
 
-## WSL2의 Subscriber 노드에서 영상처리하여 에러 계산
+# Line Tracer
+### Opencv를 사용하여 영상을 캡처하여 토픽 전송
+
+### WSL2의 Subscriber 노드에서 영상처리하여 에러 계산
