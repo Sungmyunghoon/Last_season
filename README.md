@@ -4,7 +4,12 @@
 
 ![image](https://github.com/Sungmyunghoon/Last_season/assets/112747810/eaaf1fc2-992b-4833-9312-541758f00c40)
 
-## 1. Jetson 보드의 Publisher노드에서 영상을 캡쳐하여 토픽전송
-## 2. WSL2의 Subscriber 노드에서 영상처리하여 에러계산
+## 1. Jetson 보드의 Publisher노드에서 토픽전송
+## 2. WSL2의 Subscriber 노드에서 에러계산
 ## 3. WSL2의 Publisher노드에서 에러토픽을 전송
-## 4. Jetson보드의 Subscriber 노드에서양쪽바퀴의속도명령을계산하여다이내믹셀로전송
+## 4. Jetson보드의 Subscriber 노드에서 양쪽바퀴의 속도명령을 계산하여 다이내믹셀로전송
+
+# Line Tracer
+## Opencv를 사용하여 영상을 캡처하여 토픽 전송
+
+## WSL2의 Subscriber 노드에서 영상처리하여 에러 계산
