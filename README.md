@@ -12,5 +12,7 @@
 
 # Line Tracer
 ### Opencv라이브러리를 사용하여 영상을 캡처하여 토픽 전송
+https://github.com/Sungmyunghoon/ros2_linetracer_Jetson/blob/main/src/pub.cpp
 
 ### WSL2의 Subscriber 노드에서 영상처리하여 에러 계산
+
