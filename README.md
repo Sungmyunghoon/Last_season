@@ -30,3 +30,4 @@ https://github.com/Sungmyunghoon/sllidar_ros2
 https://github.com/Sungmyunghoon/ros2_lidardrive
 
 ### 에러값을 사용하여 dxl실행
+### Ros2의 장점
