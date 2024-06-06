@@ -17,4 +17,10 @@ https://github.com/Sungmyunghoon/ros2_linetracer_Jetson/blob/main/src/pub.cpp
 ### WSL2의 Subscriber 노드에서 영상처리하여 에러 계산 및 에러토픽을 전송
 https://github.com/Sungmyunghoon/ros2_linetracer_WSL/blob/main/src/psub_wsl.cpp
 
+### Dxl로 에러값을 전송
+https://github.com/Sungmyunghoon/ros2_linetracer_Jetson/blob/main/src/sub.cpp
+
+
+# lidarDrive
+
 ### 
