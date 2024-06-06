@@ -23,4 +23,10 @@ https://github.com/Sungmyunghoon/ros2_linetracer_Jetson/blob/main/src/sub.cpp
 
 # lidarDrive
 
-### 
+### sllidar_node를 실행하여 라이다를 동작 및 토픽 전송
+https://github.com/Sungmyunghoon/sllidar_ros2
+
+### wsl에서 라이다가 측정한 거리를 sub하고 만들어져 있는 dxl에 topic 전송
+https://github.com/Sungmyunghoon/ros2_lidardrive
+
+### 에러값을 사용하여 dxl실행
