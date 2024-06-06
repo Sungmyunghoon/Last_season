@@ -31,7 +31,7 @@ https://github.com/Sungmyunghoon/ros2_lidardrive
 
 ### 에러값을 사용하여 dxl실행
 
-### Ros2의 장점
+## 두개의 태스트 후 알게된 Ros2의 장점
 ### - 한 개의 publisher는 동일한 메시지를 여러 구독자에게 동시에 전송할 수 있다.
 ### - 각 subscriber는 독립적으로 동작하기 때문에, 특정 subscriber에서 발생하는 문제가 다른 subscriber에 영향을 미치지 않는다.
 ### - 여러 subscriber가 병렬로 데이터를 처리할 수 있어, 전체 시스템의 처리 성능을 향상시킨다.
